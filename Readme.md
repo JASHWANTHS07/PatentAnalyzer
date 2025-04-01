@@ -171,7 +171,7 @@ To add new analysis features:
 
 ## Demo
 
-![Patent Trend Analyzer Demo](./PA Demo.mp4)
+![Patent Trend Analyzer Demo](./"PA Demo.mp4")
 
 ## License
 
